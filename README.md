@@ -44,5 +44,5 @@ The dashboard actively blends and maps relationships across three separate relat
 ---
 
 ### 🎨 Preview & Layout Blueprint
-*(Tip: Upload your final clean dashboard image to your GitHub repo and link it right below)*
-![Zepto Dashboard Preview](INSERT_YOUR_IMAGE_FILENAME_HERE.png)
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/be2020fc-573d-42c0-a5c2-0dfe96625ace" />
+
