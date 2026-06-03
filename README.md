@@ -5,7 +5,7 @@ This project features an interactive executive-level BI dashboard designed to an
 
 The dashboard synthesizes complex transactional datasets to provide senior leadership with a 360-degree view of core revenue drivers, operational metrics (delivery times), marketing impact (promotions), and consumer financial behavior (payment modes).
 
-*🎯 **Live Dashboard Link:** [Insert your Tableau Public Link Here]*
+
 
 ---
 
