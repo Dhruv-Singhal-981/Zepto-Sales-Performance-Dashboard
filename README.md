@@ -6,7 +6,10 @@ This project features an interactive executive-level BI dashboard designed to an
 The dashboard synthesizes complex transactional datasets to provide senior leadership with a 360-degree view of core revenue drivers, operational metrics (delivery times), marketing impact (promotions), and consumer financial behavior (payment modes).
 
 **Dataset Link:** https://www.kaggle.com/datasets/dhruvsinghalanalyst/zepto-sales-data
+---
 
+### 🎨 Preview & Layout Blueprint
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/be2020fc-573d-42c0-a5c2-0dfe96625ace" />
 ---
 
 ## 🛠️ Dashboard Visual Analytics & Features
@@ -33,16 +36,7 @@ A key highlight of this project is its iteration lifecycle. The dashboard was re
 *   **Before:** Metrics were initially represented as raw, unformatted integers, forcing the user to manually count numerical digits to ascertain scale.
 *   **After:** Implemented strict formatting protocols—applying the localized **Indian Rupee symbol (₹)** and truncating deep millions/billions structures into human-readable shorthand (`₹1.31B`, `₹783.47M`).
 
----
 
-## 🗂️ Integrated Data Relational Sources
-The dashboard actively blends and maps relationships across three separate relational data modules:
-1.  `Sales_Data.csv` (Core transaction engine, pricing models, timelines)
-2.  `Stores_Information.csv` (Geographical indexing, localized branch tags)
-3.  `Promotions_Information.csv` (Marketing campaign definitions, offer scopes)
 
----
 
-### 🎨 Preview & Layout Blueprint
-<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/be2020fc-573d-42c0-a5c2-0dfe96625ace" />
 
